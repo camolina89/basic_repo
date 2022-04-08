@@ -5,5 +5,22 @@ h1 {
 
 section{
     background-color: aqua;
-    
+}
+
+section img {
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    border: 2px solid black;
+    position: relative;
+    margin-left: 30%;
+}
+footer{
+    text-align: center;
+    background-color: yellowgreen;
+    border-radius: 20px;
+}
+span{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
 }
