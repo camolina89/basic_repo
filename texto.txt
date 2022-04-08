@@ -1,0 +1,23 @@
+comandos usados 
+
+
+
+mkdir "nombre carpeta"  =>  para crear carpeta
+touch "archivo"   =>   para crear archivos
+nano "nombre archivo.txt"    => para crear y editar un archivo
+
+cd "nombre carpeta" => para acceder a la carpeta
+cd ..  => para volver atrás
+ls  => para ver los archivos de la carpeta
+pwd  => para revisar la ruta donde nos encontramos
+
+git init  => para inicializar el git en el repositorio
+git status  => para revisar los estados del git
+git add .   => para agregar los cambios al git
+git commit -m "qui el comentario" => para comentar los cambios realizados
+git log     =>    para ver el hitorial de los cambios y comentarios realizados
+git branch -M main    =>    para cambiar de nombre ¿?
+git remote add origin https://...   =>    para sincronizar repo local con github
+git push -u origin main  =>   para empujar los cambios a github
+
+
